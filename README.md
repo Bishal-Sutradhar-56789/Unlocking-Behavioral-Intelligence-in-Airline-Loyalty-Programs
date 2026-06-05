@@ -1,4 +1,4 @@
-# Unlocking-Behavioral-Intelligence-in-Airline-Loyalty-Programs
+# Unlocking_Behavioral_Intelligence_in_Airline_Loyalty_Programs
 
 – Analyzed loyalty program data of 16,000+ airline members to find customer behavior, engagement patterns and retention opportunities.
 
